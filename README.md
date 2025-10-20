@@ -1,1 +1,3 @@
 ### test readme
+### menjumlahkan variabel
+
